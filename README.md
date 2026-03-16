@@ -153,21 +153,11 @@ flowchart TD
     N --> O
 ```
 
-## 9. 演示动画(实际运行案例）
+## 9. 演示动画(实际运行案例） 
 
-命令行界面演示
+[点击观看命令行界面演示视频](./assets/demo1.mp4)
 
-<video width="800" controls>
-  <source src="./assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-Gradio图形界面演示
-
-<video width="800" controls>
-  <source src="./assets/gradio.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[点击观看Gradio图形界面演示视频](./assets/demo2.mp4)
 
 ## 10. 项目不足
 
