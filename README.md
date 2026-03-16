@@ -155,9 +155,9 @@ flowchart TD
 
 ## 9. 演示动画(实际运行案例） 
 
-[点击观看命令行界面演示视频](./assets/demo1.mp4)
+[点击观看命令行界面演示视频](./assets/demo.mp4)
 
-[点击观看Gradio图形界面演示视频](./assets/demo2.mp4)
+[点击观看Gradio图形界面演示视频](./assets/gradio.mp4)
 
 ## 10. 项目不足
 
