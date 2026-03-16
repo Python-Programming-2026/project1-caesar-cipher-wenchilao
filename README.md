@@ -127,6 +127,7 @@ python gradio_app.py
 
 ## 8. 程序流程图
 
+
 ```mermaid
 flowchart TD
     A[用户输入文本或文件路径] --> B{选择功能}
