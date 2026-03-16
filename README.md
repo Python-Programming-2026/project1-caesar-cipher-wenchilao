@@ -155,6 +155,20 @@ flowchart TD
 
 ## 9. 演示动画(实际运行案例）
 
+命令行界面演示
+
+<video width="800" controls>
+  <source src="./assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Gradio图形界面演示
+
+<video width="800" controls>
+  <source src="./assets/gradio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## 10. 项目不足
 
 尽管本项目实现了凯撒密码加解密、暴力破解、自动破译等功能，仍然存在一些不足之处：
