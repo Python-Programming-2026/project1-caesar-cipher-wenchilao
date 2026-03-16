@@ -47,7 +47,11 @@
 ## 4. 项目结构
 
 ```text
-project1-caesar-cipher-wenchilao
+project1-caesar-cipher-wenchilao/
+├── assets/              
+│   ├── demo.mp4         
+│   ├── gradio.mp4         
+│   └── .gitkeep
 ├── cipher.py
 ├── cracker.py
 ├── file_handler.py
@@ -57,7 +61,6 @@ project1-caesar-cipher-wenchilao
 ├── output.txt
 ├── encrypted.txt
 ├── decrypted.txt
-
 └── README.md
 ```
 
@@ -72,9 +75,11 @@ project1-caesar-cipher-wenchilao
 - `output.txt`：Gradio测试输出文件。 
 - `encrypted.txt`：文件加密后的输出示例。  
 - `decrypted.txt`：文件解密后的输出示例。  
-- `README.md`：项目说明文档。  
+- `README.md`：项目说明文档。
+- `demo.mp4`：命令行测试演示。
+- `gradio.mp4`：Gradio图形界面演示。
+- `.gitkeep`：占位文件。
 
-## 5. 运行环境
 ## 5. 运行环境
 
 - Python 3.10 及以上版本  
@@ -126,7 +131,6 @@ python gradio_app.py
 运行Gradio界面后，终端会显示本地访问地址，在浏览器中打开即可使用图形界面。
 
 ## 8. 程序流程图
-
 
 ```mermaid
 flowchart TD
@@ -194,4 +198,4 @@ flowchart TD
 
 我之前寒假懒得录制视频，想通过克隆声音的方式生成完整的音频，一开始完全没有头绪，我就去问gpt了，然后ta来一步一步教我怎么部署tts模型（最开始用的xtts在conda里安装，后来生成的音频我感觉挺像的但是其他人都说不像），后来改进的用的是（忘了），反正是需要我提供多段长时间文本音频进行训练（但是我后来没怎么做）。还有在vmware中装ubuntu的时候我参考了中科大同学撰写的linux 101文档，但是里面的教程比较简略，比如其中的系统安装界面的很多步的选项里面都没说怎么选择比较合适，但是ai就可以帮我选择最适合的。
 
-ai真的能提高效率，但是我们更应该保持自己的ideas。每一个工具的出现都有人类赋予之的ideas，我们使用锤子是因为我们想砸东西，而不能因为有锤子的出现就用它切菜 ，也不能用锤子走路。
+ai真的能提高效率，但是我们更应该保持自己的ideas。用于ai训练的数据是人类产生的ideas，在ai的使用上我们可能更应该“政治挂帅”，而不是“技术挂帅”。😂 
