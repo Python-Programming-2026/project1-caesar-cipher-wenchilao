@@ -161,7 +161,7 @@ flowchart TD
 
 [点击观看命令行界面演示视频]([/assets/demo.mp4](https://github.com/user-attachments/assets/987ce9be-fb9b-4b03-b455-77776792738f))
 
-[点击观看Gradio图形界面演示视频](./assets/gradio.mp4)
+[点击观看Gradio图形界面演示视频]([./assets/gradio.mp4](https://github.com/user-attachments/assets/18688735-cfb5-4cd8-a27f-d131843b9f1f))
 
 ## 10. 项目不足
 
