@@ -177,7 +177,7 @@ flowchart TD
 ## 11. 参考资料
 
 1. **Gradio 官方文档**   
-   官网链接：[https://gradio.app/](https://gradio.app/)
+   [https://gradio.app/](https://gradio.app/)
 
 2. **凯撒密码（Caesar Cipher）维基百科**  
    [https://en.wikipedia.org/wiki/Caesar_cipher](https://en.wikipedia.org/wiki/Caesar_cipher)  
